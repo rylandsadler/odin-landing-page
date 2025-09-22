@@ -1,9 +1,35 @@
 body {
     font-family: 'Roboto', 'Times New Roman', Times, serif;
+    margin: 0;
 }
-
 
 .header {
     color:#F9FAF8;
     background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.header-logo{
+    align-self: center;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding: 10px;
+    gap: 150px;
+}
+a:link {
+    color: lightgrey;
+    text-decoration: none;
+}
+a:visited {
+    color: lightgrey;
+    text-decoration: none;
+}
+a:hover {
+  color:#F9FAF8 ;
 }
