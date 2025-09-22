@@ -33,3 +33,32 @@ a:visited {
 a:hover {
   color:#F9FAF8 ;
 }
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    color:#F9FAF8;
+    background-color: #1f2937;
+    padding: 100px;
+}
+
+button{
+    background-color: blue;
+    color: #F9FAF8;
+    border: none;
+    border-radius: 25%;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: rgb(19, 19, 194);
+}
+
+.hero-main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 400px;
+}
+.hero-second {
+    color: lightgrey;
+}
