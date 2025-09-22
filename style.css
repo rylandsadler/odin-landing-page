@@ -62,3 +62,7 @@ button:hover {
 .hero-second {
     color: lightgrey;
 }
+.hero-image img {
+    height: 300px;
+    width: auto;
+}
