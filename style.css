@@ -39,11 +39,11 @@ a:hover {
     justify-content: space-between;
     color:#F9FAF8;
     background-color: #1f2937;
-    padding: 100px;
+    padding: 60px;
 }
 
 button{
-    background-color: blue;
+    background-color: #3882F6;
     color: #F9FAF8;
     border: none;
     border-radius: 25%;
