@@ -123,3 +123,25 @@ button:hover {
 .quote-speaker{
     text-align: end;
 }
+.call-to-action{
+   display: flex;
+   justify-content: center;
+   align-items: flex-start;
+   padding: 50px;
+}
+.action-modal{
+    gap: 20px;
+    border-radius: 12px;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+}
+.action-modal button{
+    border: solid white;
+}
+
+.action-text{
+    color: #e5e7eb;
+}
